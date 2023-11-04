@@ -27,7 +27,7 @@
             </div>
             <!-- Card -->
             <div class="bg-gray-50 bg-opacity-20 pl-10 py-4 pr-4 rounded-md text-sm shadow ml-14 lg:ml-44">
-              <ul class="text-gray-200 lg:text-justify"> 
+              <ul class="text-gray-200 lg:text-justify list-disc"> 
               <li>
                 Developed, and implemented web applications on the both front-end (Nuxt Js, Bootstrap) and back-end (Spring Boot).
               </li>
@@ -64,7 +64,7 @@
           </div>
           <!-- Card -->
           <div class="bg-gray-50 bg-opacity-20 pl-10 py-4 pr-4 rounded-md text-sm shadow ml-14 lg:ml-44">
-            <ul class="text-gray-200 lg:text-justify"> 
+            <ul class="text-gray-200 lg:text-justify list-disc"> 
                 <li>
                   Designed, developed, and implemented web applications on the both front-end (Bootstrap, JavaScript, JQuery) and back-end (Struts, Spring Framework, Hibernate, JPA Framework).
                 </li>
