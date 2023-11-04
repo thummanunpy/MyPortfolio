@@ -38,6 +38,9 @@
                 Unit test back-end with Junit and mockito.
               </li>
               <li>
+                Experient working with CICD pipelines.
+              </li> 
+              <li>
                 Meeting and receiving requirements from foreign clients.
               </li> 
             </ul>
