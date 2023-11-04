@@ -1,6 +1,6 @@
 <template>
-  <div class="bg-primary h-screen flex flex-col justify-center items-center p-2">
-    <div class="flex flex-col lg:flex-row justify-center items-center">
+  <div class="bg-primary md:h-screen flex flex-col justify-center items-center p-2">
+    <div class="flex flex-col lg:flex-row justify-center items-center my-20 md:my-20">
       <div class="lg:w-1/3 mb-6 lg:p-6">
           <div class="max-w-xs text-center lg:text-start lg:pl-10 xl:pl-30">
             <p class="mt-1 text-white">TIMELINE</p>

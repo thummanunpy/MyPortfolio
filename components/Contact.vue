@@ -3,7 +3,7 @@
   <div class="max-w-[85rem] px-4 sm:px-6 lg:px-8 lg:pt-6 mx-auto">
     <!-- Grid -->
     <div class="flex flex-row">
-      <div class="">
+      <div class="mt-10">
         <p class="text-sm font-semibold text-red-400" aria-label="Brand">Contact</p>
         <h1 class="font-bold text-md text-white mt-4 mb-6">GET IN TOUCH</h1>
         <h3 class="font-semibold text-sm text-white mb-3 text-left">+66 64-509-8865</h3>
